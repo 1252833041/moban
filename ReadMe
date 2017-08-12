@@ -1,0 +1,21 @@
+## 目录
+-------
+		.
+		├── bulidjs -> 构建之后的文件
+		├── css -> 编译之后的css
+		├── image -> 图片
+		├── js ->  原js
+		├── less -> LESS文件 
+		├── view -> HTML文件
+		├── package.json
+		├── gulpfile 
+		└── webpack.config.js
+
+## 开发与构建
+1.es6转es5 （webpack）
+
+2.less转css
+
+------
+
+* 开始 `gulp`
